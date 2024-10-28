@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <main className={`${afterLoading ? "beforeLoading" : "afterPageLoad"} max-w-[370px] sm:max-w-[500px] my-auto mx-auto`}>
-      <h1>About Us</h1>
+      <h1>Home</h1>
       <p>This is the Home page</p>
     </main>
   );
